@@ -1,0 +1,8 @@
+# Admin credentials
+VITE_FIREBASE_API_KEY=AIzaSyBb6N7xa8N1tMgcGKNz9JUQrAURTu6Nm2g
+VITE_FIREBASE_PROJECT_ID=dgnl-36f2c
+VITE_FIREBASE_APP_ID=1:442649104911:web:5d8e0c4cfa62180082c97a
+OPENAI_API_KEY=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
+
+# Database URL (already exists)
+DATABASE_URL=postgresql://neondb_owner:npg_jpcEard54iGl@ep-winter-breeze-aeuo75wk-pooler.c-2.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require
